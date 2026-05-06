@@ -29,7 +29,9 @@ Overall reporting
 
 All data is stored using text files to keep the project simple and beginner-friendly.
 
+
 🧑‍💼 User Roles & Features
+
 👤 Customer
 
 Register & Login
@@ -54,6 +56,7 @@ Report technical issues
 
 Submit feedback
 
+
 🎟 Ticketing Clerk (Hidden Access)
 
 Handle cash payments
@@ -64,6 +67,7 @@ Process food orders
 
 Manage food collection
 
+
 🛠 Technician (Hidden Access)
 
 View reported technical issues
@@ -71,6 +75,7 @@ View reported technical issues
 Update issue status (Fixed / No Issue)
 
 Issue rewards or penalties based on reports
+
 
 🎥 Cinema Manager (Hidden Access)
 
@@ -84,6 +89,7 @@ View overall reports
 
 View customer feedback
 
+
 💳 Payment Methods Supported
 
 Card
@@ -95,6 +101,7 @@ E-Wallet
 Cash (in-store)
 
 Refunds are handled automatically upon booking cancellation.
+
 
 🍿 Food Ordering
 
@@ -108,6 +115,7 @@ Online & in-store food ordering supported
 
 Food collection tracking
 
+
 🏷 Discount & Reward System
 
 Discount codes (H, M, L)
@@ -115,6 +123,7 @@ Discount codes (H, M, L)
 Rewards for valid technical issue reports
 
 Penalties for repeated false reports
+
 
 📁 Files Used (Persistent Storage)
 File Name	Purpose
@@ -129,6 +138,8 @@ Rewards.txt	Rewards & penalties
 Issues.txt	Technical issues
 Feedback.txt	Customer feedback
 Overall Report.txt	Revenue & analytics
+
+
 🧠 Key Concepts Demonstrated
 
 File handling (read, write, append)
@@ -185,19 +196,7 @@ Console-based UI only
 
 No concurrency handling
 
-🚀 Future Improvements
 
-Database integration (SQLite / MySQL)
-
-GUI or web-based interface
-
-Password hashing
-
-Admin dashboard
-
-QR-based tickets
-
-Email confirmations
 
 👨‍🎓 Author Notes
 
